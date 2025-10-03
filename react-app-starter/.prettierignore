@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+coverage/
+.expo/
+.expo-shared/
+web-build/
+*.log
+.DS_Store
+*.mobileprovision
+*.orig.*
+web-build/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
